@@ -1,0 +1,11 @@
+Flood:
+  time:
+    person: Noah
+    age: 600
+Exodus:
+  times:
+    - person: Moses
+      age: 80
+    - person: Abraham
+      age: 505
+      known: false

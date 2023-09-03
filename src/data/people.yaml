@@ -1,0 +1,530 @@
+people:
+  Adam:
+    lifespan: 930
+    children:
+      - Cain
+      - Abel
+      - Seth
+  Cain:
+  Abel:
+  Seth:
+    fatherAge: 130
+    lifespan: 912
+    children:
+      - Enos
+  Enos:
+    fatherAge: 105
+    lifespan: 905
+    children:
+      - Cainan
+  Cainan:
+    fatherAge: 90
+    lifespan: 910
+    children:
+      - Mahalaleel
+  Mahalaleel:
+    fatherAge: 70
+    lifespan: 895
+    children:
+      - Jared
+  Jared:
+    fatherAge: 65
+    lifespan: 962
+    children:
+      - Enoch
+  Enoch:
+    fatherAge: 162
+    lifespan: 365
+    children:
+      - Methuselah
+  Methuselah:
+    fatherAge: 65
+    lifespan: 969
+    children:
+      - Lamech
+  Lamech:
+    fatherAge: 187
+    lifespan: 777
+    children:
+      - Noah
+  Noah:
+    fatherAge: 182
+    lifespan: 950
+    children:
+      - Japheth
+      - Shem
+      - Ham
+  Japheth:
+    fatherAge: 500
+    children:
+      - Gomer
+      - Magog
+      - Madai
+      - Javan
+      - Tubal
+      - Meshech
+      - Tiras
+  Gomer:
+    children:
+      - Ashkenaz
+      - Riphath
+      - Togarmah
+  Javan:
+    children:
+      - Elishah
+      - Tarshish
+      - Kittim
+      - Dodanim
+  Shem:
+    fatherAge: 502
+    lifespan: 600
+    children:
+      - Elam
+      - Asshur
+      - Arphaxad
+      - Lud
+      - Aram
+  Aram:
+    children:
+      - Uz
+      - Hul
+      - Gether
+      - Mash
+  Ham:
+    children:
+      - Cush
+      - Mizraim
+      - Phut
+      - Canaan
+  Cush:
+    children:
+      - Seba
+      - Havilah
+      - Sabtah
+      - Raamah
+      - Sabtechah
+      - Nimrod
+  Raamah:
+    children:
+      - Sheba
+      - Dedan
+  Mizraim:
+    children:
+      - Ludim
+      - Anamim
+      - Lehabim
+      - Naphtuhim
+      - Pathrusim
+      - Casluhim
+      - Caphtorim
+  Casluhim:
+    children:
+      - Philistim
+  Canaan:
+    children:
+      - Sidon
+      - Heth
+  Arphaxad:
+    fatherAge: 100
+    lifespan: 438
+    children:
+      - Salah
+  Salah:
+    fatherAge: 35
+    lifespan: 433
+    children:
+      - Eber
+  Eber:
+    fatherAge: 30
+    lifespan: 464
+    children:
+      - Peleg
+      - Joktan
+  Joktan:
+    children:
+      - Almodad
+      - Sheleph
+      - Hazarmaveth
+      - Jerah
+      - Hadoram
+      - Uzal
+      - Diklah
+      - Obal
+      - Abimael
+      - Sheba
+      - Ophir
+      - Havilah
+      - Jobab
+  Peleg:
+    fatherAge: 34
+    lifespan: 239
+    children:
+      - Reu
+  Reu:
+    fatherAge: 30
+    lifespan: 239
+    children:
+      - Serug
+  Serug:
+    fatherAge: 32
+    lifespan: 230
+    children:
+      - Nahor
+  Nahor:
+    fatherAge: 30
+    lifespan: 148
+    children:
+      - Terah
+  Terah:
+    fatherAge: 29
+    lifespan: 205
+    children:
+      - Abraham
+      - Nahor
+      - Haran
+  Haran:
+    fatherAge: 70
+    children:
+      - Lot
+  Abraham:
+    fatherAge: 130
+    lifespan: 175
+    children:
+      - Isaac
+      - Ishmael
+      - Zimran
+      - Jokshan
+      - Medan
+      - Midian
+      - Ishbak
+      - Shuah
+  Ishmael:
+    fatherAge: 86
+    children:
+      - Nebajoth
+      - Kedar
+      - Adbeel
+      - Mibsam
+      - Mishma
+      - Dumah
+      - Massa
+      - Hadad
+      - Tema
+      - Jetur
+      - Naphish
+      - Kedemah
+  Jokshan:
+    children:
+      - Sheba
+      - Dedan
+  Dedan:
+    children:
+      - Asshurim
+      - Letushim
+      - Leummim
+  Midian:
+    children:
+      - Ephah
+      - Epher
+      - Hanoch
+      - Abida
+      - Eldaah
+  Isaac:
+    fatherAge: 100
+    lifespan: 180
+    children:
+      - Esau
+      - Jacob
+  Esau:
+    fatherAge: 60
+    children:
+      - Eliphaz
+      - Reuel
+      - Jeush
+      - Jaalam
+      - Korah
+  Jacob:
+    fatherAge: 60
+    children:
+      - Reuben
+      - Simeon
+      - Levi
+      - Judah
+      - Dan
+      - Naphtali
+      - Gad
+      - Asher
+      - Issachar
+      - Zebulun
+      - Dinah
+      - Joseph
+      - Benjamin
+  Reuben:
+    children:
+      - Hanoch
+      - Pallu
+      - Hezron
+      - Carmi
+  Simeon:
+    children:
+      - Jemuel
+      - Jamin
+      - Ohad
+      - Jachin
+      - Zohar
+      - Shaul
+  Levi:
+    children:
+      - Gershon
+      - Kohath
+      - Merari
+  Gershon:
+    children:
+      - Libni
+      - Shimi
+  Kohath:
+    children:
+      - Amram
+      - Izhar
+      - Hebron
+      - Uzziel
+  Merari:
+    children:
+      - Mahli
+      - Mushi
+  Amram:
+    children:
+      - Aaron
+      - Moses
+      - Miriam
+  Aaron:
+    children:
+      - Nadab
+      - Abihu
+      - Eleazar
+      - Ithamar
+  Moses:
+    lifespan: 120
+    children:
+      - Gershom
+      - Eliezer
+  Miriam:
+    gender: female
+  Eleazar:
+    children:
+      - Phinehas
+  Phinehas:
+    children:
+      - Abishua
+  Abishua:
+    children:
+      - Bukki
+  Bukki:
+    children:
+      - Uzzi
+  Uzzi:
+    children:
+      - Zerahiah
+  Zerahiah:
+    children:
+      - Meraioth
+  Meraioth:
+    children:
+      - Amariah
+  Amariah:
+    children:
+      - Ahitub
+  Ahitub:
+    children:
+      - Zadok
+  Zadok:
+    children:
+      - Ahimaaz
+  Ahimaaz:
+    children:
+      - Azariah
+  Azariah:
+    children:
+      - Johanan
+  Johanan:
+    children:
+      - Azariah
+  Azariah:
+    children:
+      - Amariah
+  Amariah:
+    children:
+      - Ahitub
+  Ahitub:
+    children:
+      - Zadok
+  Zadok:
+    children:
+      - Shallum
+  Shallum:
+    children:
+      - Hilkiah
+  Hilkiah:
+    children:
+      - Azariah
+  Azariah:
+    children:
+      - Seraiah
+  Seraiah:
+    children:
+      - Jehozadak  
+  Issachar:
+    children:
+      - Tola
+      - Puvah
+      - Job
+      - Shimron
+  Zebulun:
+    children:
+      - Sered
+      - Elon
+      - Jahleel
+  Gad:
+    children:
+      - Ziphion
+      - Haggi
+      - Shuni
+      - Ezbon
+      - Eri
+      - Arodi
+      - Areli
+  Asher:
+    children:
+      - Imnah
+      - Ishuah
+      - Ishuai
+      - Beriah
+      - Serah
+  Serah:
+    gender: female
+  Beriah:
+    children:
+      - Heber
+      - Malchiel
+  Malchiel:
+    children:
+      - Birzaith
+  Heber:
+    children:
+      - Japhlet
+      - Shomer
+      - Hotham
+      - Shua
+  Japhlet:
+    children:
+      - Pasach
+      - Bimhal
+      - Ashvath
+  Shomer:
+    children:
+      - Ahi
+      - Rohgah
+      - Jehubbah
+      - Aram
+  Hotham:
+    aka: Helem
+    children:
+      - Zophah
+      - Imna
+      - Shelesh
+      - Amal
+  Shua:
+    gender: female
+  Benjamin:
+    children:
+      - Belah
+      - Becher
+      - Ashbel
+      - Gera
+      - Naaman
+      - Ehi
+      - Rosh
+      - Muppim
+      - Huppim
+      - Ard
+  Dan:
+    children:
+      - Hushim
+  Naphtali:
+    children:
+      - Jahzeel
+      - Guni
+      - Jezer
+      - Shillem
+  Dinah:
+    gender: female
+  Joseph:
+    fatherAge: 91
+    lifespan: 110
+    children:
+      - Manasseh
+      - Ephraim
+  Judah:
+    children:
+      - Er
+      - Onan
+      - Shelah
+      - Perez
+      - Zerah
+  Zerah:
+    children:
+      - Zimri
+      - Ethan
+      - Heman
+      - Calcol
+      - Dara
+  Carmi:
+    children:
+      - Achar
+  Ethan:
+    children:
+      - Azariah
+  Perez:
+    children:
+      - Hezron
+      - Hamul
+  Hezron:
+    children:
+      - Jerahmeel
+      - Ram
+      - Chelubai
+  Ram:
+    children:
+      - Amminadab
+  Amminadab:
+    children:
+      - Nahshon
+  Nahshon:
+    children:
+      - Salma
+  Salma:
+    children:
+      - Boaz
+  Boaz:
+    children:
+      - Obed
+  Obed:
+    children:
+      - Jesse
+  Jesse:
+    children:
+      - Eliab
+      - Abinadab
+      - Shimea
+      - Nethaneel
+      - Raddai
+      - Ozem
+      - David
+      - Zeruiah
+      - Abigail
+  Zeruiah:
+    gender: female
+  Abigail:
+    gender: female
+  David:
+  
