@@ -1,7 +1,6 @@
 import * as React from "react"
-import CustomAnalysis from "../components/custom-analysis"
 import Layout from "../components/layout"
-import Data from "../data/data.yaml"
+// import Data from "../data/data.yaml"
 
 // markup
 const IndexPage = () => {
